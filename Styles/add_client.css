@@ -1,0 +1,19 @@
+body {
+            padding-top: 56px; 
+        }
+        .container {
+            max-width: 600px;
+            margin: auto;
+        }
+        .form-container {
+            padding: 20px;
+            border-radius: 5px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+        .btn-primary {
+            width: 100%;
+        }
+        .alert {
+            margin-bottom: 20px;
+        }
+        
